@@ -2,7 +2,9 @@
 Name:Puneet Singh 
 
 Branch: CSE-(E1)
+
 Registration number: 25108040
+
 Day 1
 Gurudwara Sahib Visit (8:30 AM – 9:30 AM) The day started with a peaceful visit to the College Gurudwara Sahib. The atmosphere was really calming and gave me a positive vibe. It felt like the right way to begin this new phase of life. Everyone sat quietly and listened to the prayer and kirtan. This kind of environment set the tone for the rest of the day — peaceful and focused.
 
