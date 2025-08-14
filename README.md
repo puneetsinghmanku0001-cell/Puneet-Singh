@@ -1,8 +1,13 @@
 INDUCTION PROGRAM 2K25
-Principal Name: Sehajpal Singh Virk
+
+Name:Puneet Singh
+
 Branch: CSE-(E1)
+
 Registration number: 25108040
+
 Day 1
+
 Gurudwara Sahib Visit (8:30 AM – 9:30 AM) The day started with a peaceful visit to the College Gurudwara Sahib. The atmosphere was really calming and gave me a positive vibe. It felt like the right way to begin this new phase of life. Everyone sat quietly and listened to the prayer and kirtan. This kind of environment set the tone for the rest of the day — peaceful and focused.
 
 2. Auditorium Session (10:00 AM – 1:00 PM)
@@ -19,7 +24,8 @@ After the Gurudwara Sahib visit, we all gathered in the auditorium for the main 
 We also had two special guests: Ravinder Garg, Chief Engineer, shared his personal experiences and inspired us to aim high in our careers. Er. Rakesh Kumar, GNDEC alumnus from the 1991 batch, spoke about his journey after college and how GNDEC played a key role in shaping his career. Listening to an alumnus was really motivating. The session was finally concluded by Dr. K.S. Mann, Head of the IT Department. He gave us an overview of the IT department, future projects, and opportunities. He seemed really passionate about tech and encouraged us to stay updated and grab every chance to learn and grow.
 
 
-Day 2 – Assessments, Opportunities & Technical Training (Date: 2nd August 2025)
+Day 2 – 
+Assessments, Opportunities & Technical Training (Date: 2nd August 2025)
 Schedule & Key Moments:
 English Proficiency Exam (9:30 AM – 10:30 AM)
 30 marks, 50-minute duration.
@@ -33,7 +39,8 @@ Learned about the Satya Scholarship Program. Covered benefits, who can apply, an
 Title: "Food: A Pivotal Role in Student's Overall Wellness"
 Explained the relationship between diet, focus, and overall health. Offered simple hostel-friendly nutrition tips to maintain energy and immunity. Warned against irregular eating habits and overconsumption of processed foods. Causmic Club Orientation & Induction Activity Launch (3:00 PM)
 
-Day 3 – Exploring Science & Inner Values (2nd August 2025)
+Day 3 – 
+Exploring Science & Inner Values (2nd August 2025)
 Schedule & Insights:
 9:00 AM – 11:00 AM: Interactive Session by Dr. Jaswinder Singh (IAPT, Lab on Wheels)
 Venue: Auditorium
