@@ -1,4 +1,4 @@
-INDUCTION PROGRAM 2K25
+# INDUCTION PROGRAM 2K25
 Principal Name: Sehajpal Singh Virk
 Branch: CSE-(E1)
 Registration number: 25108040
