@@ -1,5 +1,5 @@
 # INDUCTION PROGRAM 2K25
-Principal Name: Sehajpal Singh Virk
+Name:Puneet Singh 
 Branch: CSE-(E1)
 Registration number: 25108040
 Day 1
