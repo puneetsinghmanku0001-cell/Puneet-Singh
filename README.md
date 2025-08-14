@@ -25,6 +25,7 @@ We also had two special guests: Ravinder Garg, Chief Engineer, shared his person
 
 
 Day 2 – 
+
 Assessments, Opportunities & Technical Training (Date: 2nd August 2025)
 Schedule & Key Moments:
 English Proficiency Exam (9:30 AM – 10:30 AM)
@@ -40,6 +41,7 @@ Title: "Food: A Pivotal Role in Student's Overall Wellness"
 Explained the relationship between diet, focus, and overall health. Offered simple hostel-friendly nutrition tips to maintain energy and immunity. Warned against irregular eating habits and overconsumption of processed foods. Causmic Club Orientation & Induction Activity Launch (3:00 PM)
 
 Day 3 – 
+
 Exploring Science & Inner Values (2nd August 2025)
 Schedule & Insights:
 9:00 AM – 11:00 AM: Interactive Session by Dr. Jaswinder Singh (IAPT, Lab on Wheels)
@@ -54,6 +56,7 @@ Practical demonstration of GitHub basics:
 Setting up a profile Creating and managing repositories Using Markdown for reports Informed students about the requirement to submit their Induction Program Report through GitHub.
 
 Day 4 - (04/08/2025)
+
 09:30 AM – 10:30 AM
 P2P Lecture on C++ Basics We attended a Peer-to-Peer (P2P) session in Room F-108 conducted by two 2nd-year students from the CSA section. They introduced us to the basics of C++ programming, making the session beginner-friendly and easy to follow.
 
@@ -67,6 +70,7 @@ Expert Lecture on Universal Human Values – Part 2 Dr. Priya Darshni ma'am deli
 Induction Session by Causmic Club We wrapped up the day with an engaging session by the Causmic Club. The club presented its purpose, shared insights into upcoming activities, and encouraged us to participate actively in future events to make the most of our time at GNDEC.
 
 Day 5 (05/08/2025)
+
 ENGLISH LECTURE
 The fifth day of induction program begins with english lecture by Manjot Mam. Firstly, She took an introduction of all the students
 
@@ -79,6 +83,7 @@ Lastly,We attended the BEEE lecture that was really good and the lecturer told u
 This is how our fifth day of infuction went by interacting with processors of GNE.
 
 Day 6 (06/08/2025)
+
 The day started with Sardar Gurcharan Singh Grewal, member of SGPC, who greeted everyone warmly with a “Fateh” and told us that this wouldn’t be a lecture, but a conversation. His style was friendly and engaging right from the start.
 
 He spoke about Guru Nanak Dev Ji and his 4 Udasian, and shared the core principles – Kirat Karo, Naam Japo, Vand Shako. He reminded us that there are many engineering colleges in Punjab, but GNE stands out because of its focus on Vidya Veechari Tan Parupkari, its lack of corruption, and the dedication of its professors.
@@ -90,11 +95,13 @@ Next, Dr. Lakhvir Singh Khana (Incharge – CML, SWAYAM–NPTEL Coordinator) too
 He also emphasized that we should focus on NPTEL courses since they are most relevant to our academic path. We even logged in and created our accounts during the session. On my way home later, I explored the options and chose a course called Developing Soft Skills and Personality – and I’m genuinely excited about it.
 
 Closing Session
+
 The last session was by Arvind Dhingra (Director – STEP & Incharge – TAC). He noticed that some students were getting bored, so he cut straight to the point. He told us, “If you do something with passion, then only you succeed.”
 
 He played a quick interactive game by asking if anyone knew the last letter in the English alphabet. Someone said “A”, and he playfully accepted it as correct. His short 7–8 minute talk was light, engaging, and a nice way to close the day.
 
 Day 7 – (07/08/2025)
+
 The first session of the day was conducted by Dr. Parminder Singh (Dean – Student Welfare). He spoke about the wide range of sports facilities and opportunities available in the college, highlighting how important it is to balance education with hobbies like sports. He explained that participating in sports not only improves physical fitness but also plays a major role in maintaining mental well-being. Dr. Singh encouraged us to keep polishing our talents alongside academics and shared the process of how to participate in different sports events organized by the college.
 
 After his session, a member of the Causmic Club briefly introduced the various departmental clubs on campus. The focus was on encouraging students to get involved, explore new interests, and make the most of the opportunities these clubs provide.
